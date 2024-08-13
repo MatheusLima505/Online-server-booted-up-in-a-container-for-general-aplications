@@ -1,0 +1,20 @@
+Just a scratch of a project that can become really big.
+
+At the moment it just runs a container that boots up a python file which will get a random image of a dog.
+
+Objetives:
+  Create a server that boots up containers for generic applications from the clients browsers
+  Create a useful application for the server to run
+  Run the applications directly in the server and just stream the frontend to the clients
+  Integrate it with SUAP
+  Make a cluster-computer that will run it smoothly
+
+Study topics:
+  Linux terminal, how it works and how can I use it for the project
+  APIs in general
+  Containers, Docker and Kubernets
+  RTP(Real-Time-Protocol)
+  How to setup a cluster
+
+  App. ideas:
+  PPI app for the 4th graders
