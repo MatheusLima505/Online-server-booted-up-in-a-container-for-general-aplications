@@ -1,13 +1,12 @@
 Just a scratch of a project that can become really big.
 
-At the moment it just runs a container that boots up a python file which will get a random image of a dog.
+At the moment it just runs a container with ubuntu's terminal can be accessed by LAN.
 
 Objetives:
-  Create a server that boots up containers for generic applications from the clients browsers
-  Create a useful application for the server to run
-  Run the applications directly in the server and just stream the frontend to the clients
+  Create a server that boots up containers with ubuntu from the clients browsers
   Integrate it with SUAP
   Make a cluster-computer that will run it smoothly
+  R̶u̶n̶ ̶t̶h̶e̶ ̶a̶p̶p̶l̶i̶c̶a̶t̶i̶o̶n̶s̶ ̶d̶i̶r̶e̶c̶t̶l̶y̶ ̶i̶n̶ ̶t̶h̶e̶ ̶s̶e̶r̶v̶e̶r̶ ̶a̶n̶d̶ ̶j̶u̶s̶t̶ ̶s̶t̶r̶e̶a̶m̶ ̶t̶h̶e̶ ̶f̶r̶o̶n̶t̶e̶n̶d̶ ̶t̶o̶ ̶t̶h̶e̶ ̶c̶l̶i̶e̶n̶t̶s̶
 
 Study topics:
   Linux terminal, how it works and how can I use it for the project
@@ -16,5 +15,6 @@ Study topics:
   RTP(Real-Time-Protocol)
   How to setup a cluster
 
-  App. ideas:
-  Linux simulator for the 4th graders
+App. ideas:
+  Linux terminal for the 4th graders
+  Create a container manager to control the distribution of the containers to the users 
